@@ -23,9 +23,6 @@ a<div id="header" align="center">
 ---
 
 ### :woman_technologist: About Me :
-<div>
-  <img src="https://github.com/dilshantharu/dilshantharu/blob/aff91d8237cae74610a13e5e79d88cb31b734bea/IMG-20230430-WA0011.jpg" alt="Avatar" width="40" height="40" >
-</div>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from SriLanka.
 - :telescope: I’m working as a contributing to frontend and backend for building web applications.
 
