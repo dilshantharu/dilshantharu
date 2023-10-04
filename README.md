@@ -14,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=dilshantharu&style=flat-square&color=blue" alt=""/>
 
- [Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Welcome;Hi+My+friend;I+am+Tharusha+Dilshan;How+are+you;)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Welcome;Hi+My+friend;I+am+Tharusha+Dilshan;How+are+you;)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
