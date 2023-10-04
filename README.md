@@ -24,7 +24,7 @@ a<div id="header" align="center">
 
 ### :woman_technologist: About Me :
 <div>
-  <img src="IMG-20230430-WA0011.jpg" alt="Avatar" style=border-radius: 50%;>
+  <img src="dilshantharu/IMG-20230430-WA0011.jpg" alt="Avatar" style=border-radius: 50%;>
 </div>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from SriLanka.
 - :telescope: I’m working as a contributing to frontend and backend for building web applications.
