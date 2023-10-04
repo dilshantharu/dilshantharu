@@ -24,9 +24,8 @@
 
 ### :woman_technologist: About Me :
 <div>
-  <img src="img_avatar.png" alt="Avatar" style=border-radius: 50%;>
+  <img src="https://m.facebook.com/story.php?story_fbid=137333522791746&substory_index=831574298634790&id=100095452962671&mibextid=Nif5oz" alt="Avatar" style=border-radius: 50%;>
 </div>
-<img src="img_avatar.png" alt="Avatar" style=border-radius: 50%;>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from SriLanka.
 - :telescope: I’m working as a contributing to frontend and backend for building web applications.
 
