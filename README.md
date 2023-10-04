@@ -1,4 +1,4 @@
-<div id="header" align="center">
+a<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
 <div>
-  <img src="https://m.facebook.com/story.php?story_fbid=137333522791746&substory_index=831574298634790&id=100095452962671&mibextid=Nif5oz" alt="Avatar" style=border-radius: 50%;>
+  <img src="IMG-20230430-WA0011.jpg" alt="Avatar" style=border-radius: 50%;>
 </div>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from SriLanka.
 - :telescope: I’m working as a contributing to frontend and backend for building web applications.
